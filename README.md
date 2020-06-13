@@ -1,2 +1,5 @@
 # awesome-cs
-A curated list of awesome CS resources
+
+## Encoding
+
+[What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
