@@ -1,6 +1,6 @@
 # awesome-cs
 
-## Algorithm
+## Algorithmic
 
 * [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
