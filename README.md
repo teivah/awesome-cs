@@ -1,5 +1,9 @@
 # awesome-cs
 
+## Algorithm
+
+* [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
+
 ## Database
 
 * [Things I wished more developers knew about databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
