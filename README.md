@@ -3,6 +3,8 @@
 ## Algorithmic
 
 * [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [basecs](https://medium.com/basecs)
 
 ## Database
 
@@ -11,6 +13,7 @@
 ## Distributed Systems
 
 * [Consistent hashing: algorithmic tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
+* [baseds](https://medium.com/baseds)
 
 ## Documentation
 
