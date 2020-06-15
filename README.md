@@ -1,5 +1,9 @@
 # awesome-cs
 
+## Database
+
+* [Things I wished more developers knew about databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+
 ## Distributed Systems
 
 * [Consistent hashing: algorithmic tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
