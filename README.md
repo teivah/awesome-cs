@@ -27,3 +27,8 @@
 # Mechanical Sympathy
 
 * [False sharing](https://mechanical-sympathy.blogspot.com/2011/07/false-sharing.html)
+
+# SRE
+
+* [The site reliability workbook](https://landing.google.com/sre/workbook/toc/)
+* [Site reliability engineering](https://landing.google.com/sre/sre-book/toc/index.html)
