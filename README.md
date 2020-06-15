@@ -19,6 +19,7 @@
 ## Encoding
 
 * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
+* [The absolute minimum every software developer absolutely, positively must know about Unicode and character sets (no excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 # Mechanical Sympathy
 
