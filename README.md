@@ -14,6 +14,7 @@
 
 * [Consistent hashing: algorithmic tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [baseds](https://medium.com/baseds)
+* [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Documentation
 
