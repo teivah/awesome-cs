@@ -3,7 +3,7 @@
 ## Algorithmic
 
 * [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 * [basecs](https://medium.com/basecs)
 
 ## Database
