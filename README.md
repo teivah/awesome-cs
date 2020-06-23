@@ -3,7 +3,6 @@
 ## Algorithmic
 
 * [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
-* [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 * [basecs](https://medium.com/basecs)
 
 ## Database
@@ -29,6 +28,10 @@
 
 * [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
 * [Avoid package names like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
+
+## Interview
+
+* [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 
 # Mechanical Sympathy
 
