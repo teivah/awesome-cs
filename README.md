@@ -25,6 +25,11 @@
 * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
 * [The absolute minimum every software developer absolutely, positively must know about Unicode and character sets (no excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
+## Go
+
+* [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
+* [Avoid package names like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
+
 # Mechanical Sympathy
 
 * [False sharing](https://mechanical-sympathy.blogspot.com/2011/07/false-sharing.html)
