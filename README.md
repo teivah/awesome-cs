@@ -2,12 +2,12 @@
 
 ## Algorithmic
 
-* [P vs. NP and the computational complexity zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
+* [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 * [basecs](https://medium.com/basecs)
 
 ## Database
 
-* [Things I wished more developers knew about databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
 ## Distributed Systems
 
