@@ -14,6 +14,7 @@
 * [Consistent hashing: algorithmic tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [baseds](https://medium.com/baseds)
 * [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [Designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ## Documentation
 
