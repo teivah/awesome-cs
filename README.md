@@ -11,34 +11,34 @@
 
 ## Distributed Systems
 
-* [Consistent hashing: algorithmic tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
+* [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [baseds](https://medium.com/baseds)
-* [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-* [Designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ## Documentation
 
-* [Google developer documentation style guide](https://developers.google.com/style)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style)
 
 ## Encoding
 
-* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
-* [The absolute minimum every software developer absolutely, positively must know about Unicode and character sets (no excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+* [What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](https://kunststube.net/encoding/)
+* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know about Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ## Go
 
-* [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
-* [Avoid package names like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
+* [Go Code Refactoring: The 23x Performance Hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
+* [Avoid Package Names Like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
 
 ## Interview
 
-* [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 # Mechanical Sympathy
 
-* [False sharing](https://mechanical-sympathy.blogspot.com/2011/07/false-sharing.html)
+* [False Sharing](https://mechanical-sympathy.blogspot.com/2011/07/false-sharing.html)
 
 # SRE
 
-* [The site reliability workbook](https://landing.google.com/sre/workbook/toc/)
-* [Site reliability engineering](https://landing.google.com/sre/sre-book/toc/index.html)
+* [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+* [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
