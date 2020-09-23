@@ -8,6 +8,7 @@
 ## Database
 
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [Turning the Database Inside-Out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
 ## Distributed Systems
 
