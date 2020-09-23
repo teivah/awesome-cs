@@ -7,6 +7,7 @@
 
 ## Database
 
+* [The Log: What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [Turning the Database Inside-Out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
